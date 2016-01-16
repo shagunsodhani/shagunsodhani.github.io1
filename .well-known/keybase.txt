@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/shagun
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://shagunsodhani.in
+  * I am shagun (https://keybase.io/shagun) on keybase.
+  * I have a public key with fingerprint 052A 444C 26A2 DFAA 1F4E  9A79 48D9 E5AB AD77 C174
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101367e5d4f63bbc7b64f8d82b960e99ef57683e1e026de85e426c3e8f9786d93240a",
+            "fingerprint": "052a444c26a2dfaa1f4e9a7948d9e5abad77c174",
+            "host": "keybase.io",
+            "key_id": "48d9e5abad77c174",
+            "kid": "0101367e5d4f63bbc7b64f8d82b960e99ef57683e1e026de85e426c3e8f9786d93240a",
+            "uid": "a8556e4507cad8a5eba80fdbfe51b000",
+            "username": "shagun"
+        },
+        "service": {
+            "hostname": "shagunsodhani.in",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1452916736,
+    "expire_in": 157680000,
+    "prev": "b8e5041899005da348a8831cf0bdc01111fa222f90df6b9d76c1781076f4fc13",
+    "seqno": 30,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.49
+Comment: https://keybase.io/crypto
+
+yMIsAnicrVJbSBRRGN7VrhtWkA9ZmTFCBVqcmTkzc84WlV2gyCJEgtTaPTPnzDq1
+zWyzs1tmVogVBUFFZHahi/mSUOCDZa20ShEaFASVW/hQFBQFIdR2UbAZqYegx87L
+4fz/933n+37++3m5voB/qHPqxZKGauR/1HMu4dvckvbVc6pF67hgPbeDjV0sSlnc
+Ce0wKBfkAA94UVaYRKEui6qqKaoMdUSRoGIZMIyZLikyEhnPgCBThiQGBVkTGdKx
+gmSKRQECwpVyumFGmB2zDdPxZCWBQAg1QSYC1QnhdcgwUTBEFDOJqIQqisYr0CXW
+WnGP4ZpTSZwtNiy35j5CY/b+gf/PvhNjcgRJksygBBSNUEQkphIEdKrqTOJVAIAH
+jDPbJDuZi47XkkjC5BpKObeWNDTmjdXL8Vc/btFaYhqLDdNlx2zLsTQr6nZrHScW
+D3pspy7mwXczNfRbKKQaJnUn6TKSzI4blskFeRepOYanzENJwLysiHIpx/bEDJuF
+DA/hRXVdAu8flnQlVcQkAHmEMQASJSJEBCGR13SgUg3w7tGJIAg6BlSXVUwV2Z0u
+4oEi61DXeJHzou0yLS4ouqIOiXipjIhJnITNuIbedM04nz/gmzA+x1sxX2Dy9D+L
+t3DexOEJgUNlTeLVwuT1k1MGCzf1VZenuDnbZ2a7Rwqys2dUjeQPLNn2rmhFdfLU
+3VVfbfyj4nV71+qHkfmt0UUiHg5Xdl1ofwwvNn4Yyj4Y3pB7LVlZEt2YtjPXv33J
+pFPdeXjvzVPTEvmB/jXZs7NeNU5ekDqaKn5RL2yeO0QzEFuT0JT3bT+vbBj51Lv/
+4/llTW/vfG5uaSlYumbZ7Vsvy4/5++ZdYKeLBpeX52dWXJ6WOb/8YHexv6By46V1
+Z78nYuH1Hd1FjaePbPIdn31mdKD13pM8eKmmZ/TAkudv/IMrfy542/Z+6421WzoH
+/M3Kvq4TOfeOPw1XPcs9XBwuSxd29necrPgFBsxBIA==
+=Wqmx
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/shagun
+
+==================================================================
+
