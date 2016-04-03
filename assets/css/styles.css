@@ -318,6 +318,33 @@ iframe {
   color: #999999;
   font-weight: normal;
 }
+/* Talk Section */
+.talk .heading a {
+    color: #545e69;
+}
+.talk .item {
+  margin-bottom: 30px;
+}
+.talk .item .title {
+  font-size: 16px;
+  margin-top: 0;
+  margin-bottom: 5px;
+  line-height: 1.5;
+}
+.talk .item .title .place {
+  color: #999999;
+  font-weight: normal;
+}
+.talk .item .title .place a {
+  color: #999999;
+}
+.talk .item .title .place a:hover {
+  color: #666666;
+}
+.talk .item .title .year {
+  color: #999999;
+  font-weight: normal;
+}
 /* Git section */
 .ghfeed {
   height: 600px;
