@@ -6,7 +6,7 @@ I hereby claim:
 
   * I am an admin of https://shagunsodhani.in
   * I am shagun (https://keybase.io/shagun) on keybase.
-  * I have a public key with fingerprint 052A 444C 26A2 DFAA 1F4E  9A79 48D9 E5AB AD77 C174
+  * I have a public key ASCffjKNwQirc7D0n8bC7IOlZ6tvsSe3EtDUh5KPLhAL6wo
 
 To do so, I am signing this object:
 
@@ -14,10 +14,8 @@ To do so, I am signing this object:
     "body": {
         "key": {
             "eldest_kid": "0101367e5d4f63bbc7b64f8d82b960e99ef57683e1e026de85e426c3e8f9786d93240a",
-            "fingerprint": "052a444c26a2dfaa1f4e9a7948d9e5abad77c174",
             "host": "keybase.io",
-            "key_id": "48d9e5abad77c174",
-            "kid": "0101367e5d4f63bbc7b64f8d82b960e99ef57683e1e026de85e426c3e8f9786d93240a",
+            "kid": "01209f7e328dc108ab73b0f49fc6c2ec83a567ab6fb127b712d0d487928f2e100beb0a",
             "uid": "a8556e4507cad8a5eba80fdbfe51b000",
             "username": "shagun"
         },
@@ -28,37 +26,25 @@ To do so, I am signing this object:
         "type": "web_service_binding",
         "version": 1
     },
-    "ctime": 1452916736,
-    "expire_in": 157680000,
-    "prev": "b8e5041899005da348a8831cf0bdc01111fa222f90df6b9d76c1781076f4fc13",
-    "seqno": 30,
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.15"
+    },
+    "ctime": 1461815924,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1461815830,
+        "hash": "6d833cc9dd3e141fcf90c9d0c3fbec26e78c2e2ffa69d66e5ff0721b02954e9341bb804143d9f805686744251aa3b2b7aeb28ec429d38d074a16ef569af388b4",
+        "seqno": 452570
+    },
+    "prev": "fc2d164db78e0de152b76095a360bae2adc661afa4ee9a419ba9f726cc4aba5c",
+    "seqno": 41,
     "tag": "signature"
 }
 
 which yields the signature:
 
------BEGIN PGP MESSAGE-----
-Version: Keybase OpenPGP v2.0.49
-Comment: https://keybase.io/crypto
-
-yMIsAnicrVJbSBRRGN7VrhtWkA9ZmTFCBVqcmTkzc84WlV2gyCJEgtTaPTPnzDq1
-zWyzs1tmVogVBUFFZHahi/mSUOCDZa20ShEaFASVW/hQFBQFIdR2UbAZqYegx87L
-4fz/933n+37++3m5voB/qHPqxZKGauR/1HMu4dvckvbVc6pF67hgPbeDjV0sSlnc
-Ce0wKBfkAA94UVaYRKEui6qqKaoMdUSRoGIZMIyZLikyEhnPgCBThiQGBVkTGdKx
-gmSKRQECwpVyumFGmB2zDdPxZCWBQAg1QSYC1QnhdcgwUTBEFDOJqIQqisYr0CXW
-WnGP4ZpTSZwtNiy35j5CY/b+gf/PvhNjcgRJksygBBSNUEQkphIEdKrqTOJVAIAH
-jDPbJDuZi47XkkjC5BpKObeWNDTmjdXL8Vc/btFaYhqLDdNlx2zLsTQr6nZrHScW
-D3pspy7mwXczNfRbKKQaJnUn6TKSzI4blskFeRepOYanzENJwLysiHIpx/bEDJuF
-DA/hRXVdAu8flnQlVcQkAHmEMQASJSJEBCGR13SgUg3w7tGJIAg6BlSXVUwV2Z0u
-4oEi61DXeJHzou0yLS4ouqIOiXipjIhJnITNuIbedM04nz/gmzA+x1sxX2Dy9D+L
-t3DexOEJgUNlTeLVwuT1k1MGCzf1VZenuDnbZ2a7Rwqys2dUjeQPLNn2rmhFdfLU
-3VVfbfyj4nV71+qHkfmt0UUiHg5Xdl1ofwwvNn4Yyj4Y3pB7LVlZEt2YtjPXv33J
-pFPdeXjvzVPTEvmB/jXZs7NeNU5ekDqaKn5RL2yeO0QzEFuT0JT3bT+vbBj51Lv/
-4/llTW/vfG5uaSlYumbZ7Vsvy4/5++ZdYKeLBpeX52dWXJ6WOb/8YHexv6By46V1
-Z78nYuH1Hd1FjaePbPIdn31mdKD13pM8eKmmZ/TAkudv/IMrfy542/Z+6421WzoH
-/M3Kvq4TOfeOPw1XPcs9XBwuSxd29necrPgFBsxBIA==
-=Wqmx
------END PGP MESSAGE-----
+g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgn34yjcEIq3Ow9J/GwuyDpWerb7EntxLQ1IeSjy4QC+sKp3BheWxvYWTFAvd7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxMzY3ZTVkNGY2M2JiYzdiNjRmOGQ4MmI5NjBlOTllZjU3NjgzZTFlMDI2ZGU4NWU0MjZjM2U4Zjk3ODZkOTMyNDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwOWY3ZTMyOGRjMTA4YWI3M2IwZjQ5ZmM2YzJlYzgzYTU2N2FiNmZiMTI3YjcxMmQwZDQ4NzkyOGYyZTEwMGJlYjBhIiwidWlkIjoiYTg1NTZlNDUwN2NhZDhhNWViYTgwZmRiZmU1MWIwMDAiLCJ1c2VybmFtZSI6InNoYWd1biJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoic2hhZ3Vuc29kaGFuaS5pbiIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE1In0sImN0aW1lIjoxNDYxODE1OTI0LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0NjE4MTU4MzAsImhhc2giOiI2ZDgzM2NjOWRkM2UxNDFmY2Y5MGM5ZDBjM2ZiZWMyNmU3OGMyZTJmZmE2OWQ2NmU1ZmYwNzIxYjAyOTU0ZTkzNDFiYjgwNDE0M2Q5ZjgwNTY4Njc0NDI1MWFhM2IyYjdhZWIyOGVjNDI5ZDM4ZDA3NGExNmVmNTY5YWYzODhiNCIsInNlcW5vIjo0NTI1NzB9LCJwcmV2IjoiZmMyZDE2NGRiNzhlMGRlMTUyYjc2MDk1YTM2MGJhZTJhZGM2NjFhZmE0ZWU5YTQxOWJhOWY3MjZjYzRhYmE1YyIsInNlcW5vIjo0MSwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEA9NvZueby4mh+S8Wbn66IEMRknCHHOwybJsUevunD1rx3iuQnpqDLJMmzSXU/RHdu942Ihw0TzvJCNY4J7APIPqHNpZ190eXBlIKN0YWfNAgKndmVyc2lvbgE=
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
@@ -66,4 +52,3 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/shagun
 
 ==================================================================
-
